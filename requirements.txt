@@ -1,0 +1,4 @@
+plotly
+pandas
+sreamlit==1.17.0
+
